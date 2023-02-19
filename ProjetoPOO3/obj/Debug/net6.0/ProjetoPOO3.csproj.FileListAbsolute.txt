@@ -1,0 +1,15 @@
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\bin\Debug\net6.0\ProjetoPOO3.exe
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\bin\Debug\net6.0\ProjetoPOO3.deps.json
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\bin\Debug\net6.0\ProjetoPOO3.runtimeconfig.json
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\bin\Debug\net6.0\ProjetoPOO3.dll
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\bin\Debug\net6.0\ProjetoPOO3.pdb
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ProjetoPOO3.csproj.AssemblyReference.cache
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ProjetoPOO3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ProjetoPOO3.AssemblyInfoInputs.cache
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ProjetoPOO3.AssemblyInfo.cs
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ProjetoPOO3.csproj.CoreCompileInputs.cache
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ProjetoPOO3.dll
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\refint\ProjetoPOO3.dll
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ProjetoPOO3.pdb
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ProjetoPOO3.genruntimeconfig.cache
+D:\Projetos\ProjetoPOO3\ProjetoPOO3\obj\Debug\net6.0\ref\ProjetoPOO3.dll
